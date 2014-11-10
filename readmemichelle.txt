@@ -1,0 +1,1 @@
+Use ./start.sh in the command line to get the app running.
